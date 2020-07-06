@@ -25,7 +25,7 @@ way.
 
 ## CONTACT
 
-**Website: ** https://akashsuper2000.github.io
+**Website** : https://akashsuper2000.github.io
 
 **Mobile** : 7010346200
 **Email** : akashsuper2000@gmail.com
@@ -33,9 +33,7 @@ way.
 **Github** : github.com/akashsuper
 **LinkedIn** : linkedin.com/in/akash-g
 
-**Address** : M2, YS Enclave, Arcot Road,
-
-Chennai
+**Address** : M2, YS Enclave, Arcot Road, Chennai
 
 #### WORK EXPERIENCE
 
