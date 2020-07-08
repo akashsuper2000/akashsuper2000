@@ -50,7 +50,7 @@ Assist senior developers with continuous integration and deployment
 ###### Amrita School Of Engineering 2017 - 2021
 
 ```
-GPA: 9.3/
+GPA: 9.3/10
 CSI, T{Know} and ASCII club member
 Technical events coordinator and problem setter
 ```
@@ -91,30 +91,27 @@ Distinction in overall academic performance
 **Hackerrank: ** 3 Gold badges and 3 Silver
 badges
 
-**CodeChef** : Max rating - 1900. Global Rank -
-2000.
+**CodeChef** : Max rating - 1900. Global Rank - 2000.
 
 **CodeForces** : Max Rating: 1604
 
 **Kaggle** : Competitions Expert
 
-**CTFTime** : Team **exploit_it** : Below 100
-Nationally
+**CTFTime** : Team **exploit_it** : Top 100 Nationally
 
-https://hackerrank.com/akashsuper
+https://hackerrank.com/akashsuper2000
 
 https://codechef.com/users/akash2000coder
 
-https://codeforces.com/profile/akash
+https://codeforces.com/profile/akash2000
 
-https://www.kaggle.com/akashsuper
+https://www.kaggle.com/akashsuper2000
 
-https://ctftime.org/team/
+https://ctftime.org/team/82868
 
 ## CERTIFICATIONS
 
- - Machine Learning Certification from Stanford
- - University through Coursera
+ - Machine Learning Certification from Stanford University through Coursera
  - Deep Learning Specialization Certification from Deeplearning.ai
  - Hackerrank Problem Solving, Python, Javascript, React, RESTAPI, Java certifications
 
