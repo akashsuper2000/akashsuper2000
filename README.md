@@ -4,32 +4,28 @@
 
 ## OBJECTIVE
 
-Seeking the role of an entry-level data
-scientist or a web developer and its
-associated fields in a competitive
-environment that encourages learning and
-technical growth
+###### Seeking the role of an entry-level data scientist or a web developer and its associated fields in a competitive environment that encourages learning and technical growth
 
 ## ABOUT ME
 
- - I'm an avid learner and I enjoy solving
+ - ###### I'm an avid learner and I enjoy solving
 problems. I specialize in machine learning
 and web development and everything in tech!
- - I'm the type of person who constantly strives
+ - ###### I'm the type of person who constantly strives
 to learn new things, explore stuff and solve
 challenging problems everyday.
- - I am most productive in a highly challenging
+ - ###### I am most productive in a highly challenging
 and competitive environment with a goal to
 solve problems in an innovative and different
 way.
 
 ## CONTACT
 
-**Website** : https://akashsuper2000.github.io
+ - **Website** : https://akashsuper2000.github.io
 
-**Github** : https://github.com/akashsuper2000
+ - **Github** : https://github.com/akashsuper2000
 
-**LinkedIn** : https://linkedin.com/in/akash-g
+ - **LinkedIn** : https://linkedin.com/in/akash-g
 
 
 ## WORK EXPERIENCE
@@ -38,9 +34,9 @@ way.
 ###### Chennai, May 2019
 
 ```
-Build and develop responsive webpages for the front-end
-Automate various tasks across the company using python and bash
-Assist senior developers with continuous integration and deployment
+ - Build and develop responsive webpages for the front-end
+ - Automate various tasks across the company using python and bash
+ - Assist senior developers with continuous integration and deployment
 ```
 
 
@@ -50,9 +46,9 @@ Assist senior developers with continuous integration and deployment
 ###### Amrita School Of Engineering 2017 - 2021
 
 ```
-GPA: 9.3/10
-CSI, T{Know} and ASCII club member
-Technical events coordinator and problem setter
+ - GPA: 9.3/10
+ - CSI, T{Know} and ASCII club member
+ - Technical events coordinator and problem setter
 ```
 
 
@@ -60,9 +56,9 @@ Technical events coordinator and problem setter
 ###### Amrita Vidyalayam, CBSE, Graduated 2017
 
 ```
-Percentage: 93%
-School topper in physics
-Distinction in overall academic performance
+ - Percentage: 93%
+ - School topper in physics
+ - Distinction in overall academic performance
 ```
 
 
@@ -81,32 +77,28 @@ Distinction in overall academic performance
 
 ## LANGUAGES
 
-**English** : Full working proficiency
-**Hindi** : Limited proficiency
-**Tamil** : Native language
-**Sanskrit** : Limited proficiency
+ - **English** : Full working proficiency
+ - **Hindi** : Limited proficiency
+ - **Tamil** : Native language
+ - **Sanskrit** : Limited proficiency
 
 ## WEB PROFILES
 
-**Hackerrank** : 3 Gold badges and 3 Silver badges
-
-**CodeChef** : Max rating - 1900. Global Rank - 2000.
-
-**CodeForces** : Max Rating: 1604
-
-**Kaggle** : Competitions Expert
-
-**CTFTime** : Team **exploit_it** : Top 100 Nationally
-
+ - **Hackerrank** : 3 Gold badges and 3 Silver badges
 https://hackerrank.com/akashsuper2000
 
+ - **CodeChef** : Max rating - 1900. Global Rank - 2000
 https://codechef.com/users/akash2000coder
 
+ - **CodeForces** : Max Rating: 1604
 https://codeforces.com/profile/akash2000
 
+ - **Kaggle** : Competitions Expert
 https://www.kaggle.com/akashsuper2000
 
+ - **CTFTime** : Team **exploit_it** : Top 100 Nationally
 https://ctftime.org/team/82868
+
 
 ## CERTIFICATIONS
 
@@ -204,10 +196,10 @@ Hosted a challenging multi-domain competition for the techfest 2020
 
 ## HACKATHONS
 
-IIIT-H Hackathon 2017
-Hacktoberfest 2018
-Hactoberfest 2019
-SLAC Honeywell Hackathon 2019
+ - IIIT-H Hackathon 2017
+ - Hacktoberfest 2018
+ - Hactoberfest 2019
+ - SLAC Honeywell Hackathon 2019
 
 
 ## PROJECTS
@@ -216,11 +208,9 @@ SLAC Honeywell Hackathon 2019
 ###### Dec 2019 – Mar 2020
 
 ```
-A Full Stack Web application which is a one-stop place for faculty things that
-include Profile view, Course Management, Leave Management, Recent
-Announcements and Time Table view.
-Tech stack: MySQL - Express - React - Node
-Deployed on: Github Pages for front-end, Heroku for back-end
+ - A Full Stack Web application which is a one-stop place for faculty things that include Profile view, Course Management, Leave Management, Recent Announcements and Time Table view.
+ - Tech stack: MySQL - Express - React - Node
+ - Deployed on: Github Pages for front-end, Heroku for back-end
 ```
 
 
@@ -228,10 +218,8 @@ Deployed on: Github Pages for front-end, Heroku for back-end
 ###### Jul 2019 – Oct 2019
 
 ```
-A Full Stack Web application for allowing users to book bus tickets through
-website or mobile app both with full voice support. It also has an admin
-interface with included voice support.
-Tech stack: React - Node - OracleDB
+ - A Full Stack Web application for allowing users to book bus tickets through website or mobile app both with full voice support. It also has an admin interface with included voice support.
+ - Tech stack: React - Node - OracleDB
 ```
 
 
@@ -239,9 +227,9 @@ Tech stack: React - Node - OracleDB
 ###### May 2020
 
 ```
-COVID tracker that displays info and insights on national and state-wise data.
-Built on Flask framework and Postman API.
-Hosted on akashsuper2000.pythonanywhere.com
+ - COVID tracker that displays info and insights on national and state-wise data
+ - Built on Flask framework and Postman API
+ - Hosted on akashsuper2000.pythonanywhere.com
 ```
 
 
@@ -249,11 +237,9 @@ Hosted on akashsuper2000.pythonanywhere.com
 ###### Jul 2018 – Dec 2018
 
 ```
-This project is in association with Deep Learning Lab of Amrita University.
-This project is about applying OCR to extract texts from an image which then
-gets translated to a different language of choice.
-It is achieved through the use of various deep learning and computer vision
-techniques.
+ - This project is in association with Deep Learning Lab of Amrita University
+ - This project is about applying OCR to extract texts from an image which then gets translated to a different language of choice
+ - It is achieved through the use of various deep learning and computer vision techniques
 ```
 
 
@@ -261,10 +247,8 @@ techniques.
 ###### Aug 2018 – Dec 2018
 
 ```
-This project is about detecting license plates from a real-time video feed and
-extracting the license numbers from it.
-Implementation: Detection of the plate, segmentation of characters, OCR on
-the characters.
+ - This project is about detecting license plates from a real-time video feed and extracting the license numbers from it
+ - Implementation: Detection of the plate, segmentation of characters, OCR on the characters
 ```
 
 
