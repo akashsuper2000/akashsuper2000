@@ -4,20 +4,13 @@
 
 ## OBJECTIVE
 
-###### Seeking the role of an entry-level data scientist or a web developer and its associated fields in a competitive environment that encourages learning and technical growth
+Seeking the role of an entry-level data scientist or a web developer and its associated fields in a competitive environment that encourages learning and technical growth
 
 ## ABOUT ME
 
- - ###### I'm an avid learner and I enjoy solving
-problems. I specialize in machine learning
-and web development and everything in tech!
- - ###### I'm the type of person who constantly strives
-to learn new things, explore stuff and solve
-challenging problems everyday.
- - ###### I am most productive in a highly challenging
-and competitive environment with a goal to
-solve problems in an innovative and different
-way.
+ - I'm an avid learner and I enjoy solving problems. I specialize in machine learning and web development and everything in tech!
+ - I'm the type of person who constantly strives to learn new things, explore stuff and solve challenging problems everyday.
+ - I am most productive in a highly challenging and competitive environment with a goal to solve problems in an innovative and different way.
 
 ## CONTACT
 
