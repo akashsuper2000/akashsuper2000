@@ -88,8 +88,7 @@ Distinction in overall academic performance
 
 ## WEB PROFILES
 
-**Hackerrank: ** 3 Gold badges and 3 Silver
-badges
+**Hackerrank** : 3 Gold badges and 3 Silver badges
 
 **CodeChef** : Max rating - 1900. Global Rank - 2000.
 
