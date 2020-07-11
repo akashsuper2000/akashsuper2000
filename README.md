@@ -4,12 +4,6 @@
 
 <br/>
 
-## OBJECTIVE
-
-Seeking the role of an entry-level data scientist or a web developer and its associated fields in a competitive environment that encourages learning and technical growth
-
-<br/>
-
 ## ABOUT ME
 
  - I'm an avid learner and I enjoy solving problems. I specialize in machine learning and web development and everything in tech!
