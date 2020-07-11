@@ -32,7 +32,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
 
 ## WORK EXPERIENCE
 
-#### Summer Intern
+ - #### Summer Intern
 ###### Chennai, May 2019
 
 ```
@@ -45,7 +45,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
 
 ## ACADEMIC BACKGROUND
 
-#### Undergraduate in B.Tech Computer Science
+ - #### Undergraduate in B.Tech Computer Science
 ###### Amrita School Of Engineering 2017 - 2021
 
 ```
@@ -55,7 +55,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
 ```
 
 
-#### Higher Secondary Education (PCM+CS)
+ - #### Higher Secondary Education (PCM+CS)
 ###### Amrita Vidyalayam, CBSE, Graduated 2017
 
 ```
