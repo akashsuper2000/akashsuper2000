@@ -23,7 +23,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
 
 ## WORK EXPERIENCE
 
-##### Summer Intern
+#### Summer Intern
 ###### Chennai, May 2019
 
 ```
@@ -33,9 +33,9 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
 ```
 
 
-#### ACADEMIC BACKGROUND
+## ACADEMIC BACKGROUND
 
-##### Undergraduate in B.Tech Computer Science
+#### Undergraduate in B.Tech Computer Science
 ###### Amrita School Of Engineering 2017 - 2021
 
 ```
@@ -45,7 +45,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
 ```
 
 
-##### Higher Secondary Education (PCM+CS)
+#### Higher Secondary Education (PCM+CS)
 ###### Amrita Vidyalayam, CBSE, Graduated 2017
 
 ```
@@ -58,7 +58,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
 ## TECHNICAL SKILLS
 
 
- - Deep Learning and Computer Vision
+ - Deep Learning, Computer Vision and NLP
  - Pen-testing at CTF level
  - Competitive Programming
  - Design and Optimization of Algorithms
@@ -101,86 +101,85 @@ https://ctftime.org/team/82868
 
 ## ACCOMPLISHMENTS
 
-###### Hashcode 2019 and 2020
+#### Hashcode 2019 and 2020
 ```
 Ranked 1845 and 2374 respectively of 30K+ participants
 ```
-
-###### CSI programming contest
+#### CSI programming contest
 ```
 Ranked top 100 and received full scholarship for annual convention
 ```
-###### ACM ICPC 2018 and 2019
+#### ACM ICPC 2018 and 2019
 ```
 Ranked 500 nationally consecutively out of 20K+ participants
 ```
 
-###### Hacktoberfest 2018 and 2019
+#### Hacktoberfest 2018 and 2019
 ```
 Contributed to open-source
 ```
 
-###### Kaggle ARC challenge
+#### Kaggle ARC challenge
 ```
 Ranked 86 of 1K+ participants and secured bronze
 ```
 
-###### Kaggle Ion switching challenge
+#### Kaggle Ion switching challenge
 ```
 Ranked 147 of 2K+ participants and secured bronze
 ```
 
-###### Kaggle Tweet sentiment extraction challenge
+#### Kaggle Tweet sentiment extraction challenge
 ```
 Ranked 310 of 3K+ participants
 ```
 
-###### COVID global forecasting competition
+#### COVID global forecasting competition
 ```
 Ranked in top 10% consecutively for 5 weeks
 ```
 
-###### CTFTime Team ranking
+#### CTFTime Team ranking
 ```
 Ranked top 100 nationally for the year 2019 and 2020
 ```
 
-###### CodeJam
+#### CodeJam
 ```
 Qualified through first round of codejam 2019 and 2020
 ```
 
-###### IIIT-H Hackathon
+#### IIIT-H Hackathon
 ```
 Participated and build a multiplayer game in C#
 ```
 
-###### SLAC Honeywell Hackathon
+#### SLAC Honeywell Hackathon
 ```
 Participated and built an AI model to predict pick time in warehouses
 ```
 
-###### Kaggle M5 Forecasting
+#### Kaggle M5 Forecasting
 ```
 Ranked top 10% in Accuracy and Uncertainty and secured bronze
 ```
 
-###### Connect X competition
+#### Connect X competition
 ```
 Built an agent that consistently placed in top 10%
 ```
 
-###### Halite competition
+#### Halite competition
 ```
 Built a greedy agent that placed in top 20%
 ```
 
-###### AI Adept
+#### AI Adept
 ```
 Hosted a machine learning competition during the techfest 2020
 ```
 
-###### Figure 'em all
+#### Figure 'em all
 ```
 Hosted a challenging multi-domain competition for the techfest 2020
 ```
@@ -197,7 +196,7 @@ Hosted a challenging multi-domain competition for the techfest 2020
 
 ## PROJECTS
 
-##### Faculty Dashboard
+#### Faculty Dashboard
 ###### Dec 2019 – Mar 2020
 
 ```
@@ -207,7 +206,7 @@ Hosted a challenging multi-domain competition for the techfest 2020
 ```
 
 
-##### Voice Based Transport Enquiry System
+#### Voice Based Transport Enquiry System
 ###### Jul 2019 – Oct 2019
 
 ```
@@ -216,7 +215,7 @@ Hosted a challenging multi-domain competition for the techfest 2020
 ```
 
 
-##### COVID-19 Tracker Dashboard
+#### COVID-19 Tracker Dashboard
 ###### May 2020
 
 ```
@@ -226,7 +225,7 @@ Hosted a challenging multi-domain competition for the techfest 2020
 ```
 
 
-##### Detecting Text Based Image Using OCR For Translation
+#### Detecting Text Based Image Using OCR For Translation
 ###### Jul 2018 – Dec 2018
 
 ```
@@ -236,7 +235,7 @@ Hosted a challenging multi-domain competition for the techfest 2020
 ```
 
 
-##### License Plate Detection
+#### License Plate Detection
 ###### Aug 2018 – Dec 2018
 
 ```
