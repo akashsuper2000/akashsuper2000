@@ -2,15 +2,21 @@
 
 ### Software Engineer
 
+<br/><br/>
+
 ## OBJECTIVE
 
 Seeking the role of an entry-level data scientist or a web developer and its associated fields in a competitive environment that encourages learning and technical growth
+
+<br/><br/>
 
 ## ABOUT ME
 
  - I'm an avid learner and I enjoy solving problems. I specialize in machine learning and web development and everything in tech!
  - I'm the type of person who constantly strives to learn new things, explore stuff and solve challenging problems everyday.
  - I am most productive in a highly challenging and competitive environment with a goal to solve problems in an innovative and different way.
+
+<br/><br/>
 
 ## CONTACT
 
@@ -20,6 +26,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
 
  - **LinkedIn** : https://linkedin.com/in/akash-g
 
+<br/><br/>
 
 ## WORK EXPERIENCE
 
@@ -32,6 +39,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
  - Assist senior developers with continuous integration and deployment
 ```
 
+<br/><br/>
 
 ## ACADEMIC BACKGROUND
 
@@ -54,6 +62,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
  - Distinction in overall academic performance
 ```
 
+<br/><br/>
 
 ## TECHNICAL SKILLS
 
@@ -67,6 +76,7 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
  - Database Design and Management
  - Cloud Deployment and Maintenance
  
+<br/><br/>
 
 ## LANGUAGES
 
@@ -74,6 +84,8 @@ Seeking the role of an entry-level data scientist or a web developer and its ass
  - **Hindi** : Limited proficiency
  - **Tamil** : Native language
  - **Sanskrit** : Limited proficiency
+
+<br/><br/>
 
 ## WEB PROFILES
 
@@ -92,12 +104,15 @@ https://www.kaggle.com/akashsuper2000
  - **CTFTime** : Team **exploit_it** : Top 100 Nationally
 https://ctftime.org/team/82868
 
+<br/><br/>
 
 ## CERTIFICATIONS
 
  - Machine Learning Certification from Stanford University through Coursera
  - Deep Learning Specialization Certification from Deeplearning.ai
  - Hackerrank Problem Solving, Python, Javascript, React, RESTAPI, Java certifications
+
+<br/><br/>
 
 ## ACCOMPLISHMENTS
 
@@ -184,7 +199,7 @@ Hosted a machine learning competition during the techfest 2020
 Hosted a challenging multi-domain competition for the techfest 2020
 ```
 
-
+<br/><br/>
 
 ## HACKATHONS
 
@@ -193,6 +208,7 @@ Hosted a challenging multi-domain competition for the techfest 2020
  - Hactoberfest 2019
  - SLAC Honeywell Hackathon 2019
 
+<br/><br/>
 
 ## PROJECTS
 
@@ -243,5 +259,4 @@ Hosted a challenging multi-domain competition for the techfest 2020
  - Implementation: Detection of the plate, segmentation of characters, OCR on the characters
 ```
 
-
-
+<br/><br/>
