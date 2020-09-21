@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash G</h1>
+<h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">Student | AI Enthusiast | Competitive Programmer | CTF Ninja</h3>
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/akashsuper2000)
