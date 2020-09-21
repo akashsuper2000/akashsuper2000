@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Akash</h1>
 <h3 align="center">Student | AI Enthusiast | Competitive Programmer | CTF Ninja</h3>
+
 <br />
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/akashsuper2000)
@@ -19,6 +20,8 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=akashsuper2000&show_icons=true&include_all_commits=true&count_private=true&line_height=30" alt="stats" width="420" />&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsuper2000&layout=compact" alt="languages" width="407" />
 </p>
+
+<br />
 
 <p align="center">
 <a href="https://linkedin.com/in/akash-g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akash-g/" height="20" width="20" /></a>
