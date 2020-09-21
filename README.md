@@ -1,5 +1,6 @@
-<img align="center" border-radius="100" src="https://github.com/akashsuper2000.png" height="50" width="50" alt="avatar" />
-[Avatar](https://github.com/akashsuper2000.png)
+<p align="center">
+<img src="https://github.com/akashsuper2000.png" height="100" width="100" alt="avatar" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">Student | AI Enthusiast | Competitive Programmer | CTF Ninja</h3>
@@ -14,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=akashsuper2000&show_icons=true" alt="https://github.com/akashsuper2000" /> </p>
 
-<p align="center" padding="20">
+<p align="center">
 <a href="https://linkedin.com/in/akash-g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akash-g/" height="20" width="20" /></a>
 <a href="https://hackerrank.com/akashsuper2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://hackerrank.com/akashsuper2000" height="20" width="20" /></a>
 <a href="https://codechef.com/akash2000coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="https://codechef.com/akash2000coder" height="20" width="20" /></a>
