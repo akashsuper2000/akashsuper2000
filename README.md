@@ -7,11 +7,11 @@
 
 <br />
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/akashsuper2000)
+- 👨‍💻 All of my projects are available here at [GitHub](https://github.com/akashsuper2000)
 
 - 💻 Have a look at my [personal website](https://akashsuper2000.github.io)
 
-- 📝 I write articles on [Medium](https://medium.com/@akashsuper2000) and [Dev](https://dev.to/akashsuper2000)
+- 📝 I write articles (rarely) on [Medium](https://medium.com/@akashsuper2000) and [Dev](https://dev.to/akashsuper2000)
 
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/akash-g/) or through my [Mail](mailto:akashsuper2000@gmail.com)
 
