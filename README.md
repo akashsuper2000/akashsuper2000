@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/akashsuper2000/Portfolio/blob/master/src/components/icons/logo.svg" height="80" width="80" alt="avatar" />
+<img src="https://github.com/akashsuper2000/akashsuper2000/master/logo.svg" height="80" width="80" alt="avatar" />
 </p>
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm Akash</h1>
