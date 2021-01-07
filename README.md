@@ -8,7 +8,7 @@
 
 - 💻 Have a look at my [personal website](https://akashsuper2000.github.io)
 
-- 📝 I (rarely) write on my [blog](https://akashsuper2000.github.io/blog)
+- 📝 I (rarely) write in my [blog](https://akashsuper2000.github.io/blog)
 
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/akash-g/) or through my [Mail](mailto:akashsuper2000@gmail.com)
 
