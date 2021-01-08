@@ -11,8 +11,8 @@ on:
     branches: [ master ]
 
   schedule:
-    # Runs every 12AM IST
-    - cron: '30 18 * * *'
+    # Runs every hour
+    - cron: '0 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -33,4 +33,4 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
