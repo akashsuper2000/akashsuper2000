@@ -20,7 +20,7 @@
 
 <br />
 
-<img src="https://github.com/akashsuper2000/akashsuper2000/blob/main/images/stat.svg" alt="Akash WakaTime Activity"/>
+<img src="https://github.com/akashsuper2000/akashsuper2000/blob/master/images/stat.svg" alt="Akash WakaTime Activity"/>
 
 <br />
 
