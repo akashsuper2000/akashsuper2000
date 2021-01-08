@@ -20,7 +20,8 @@
 
 <br />
 
-<a href="https://wakatime.com/@akashsuper2000"><img src="https://github.com/akashsuper2000/akashsuper2000/blob/master/images/stat.svg" alt="Akash WakaTime Activity" align=center/></a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br />
 
