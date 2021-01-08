@@ -20,6 +20,10 @@
 
 <br />
 
+<img src="https://github.com/akashsuper2000/akashsuper2000/blob/main/images/stat.svg" alt="Akash WakaTime Activity"/>
+
+<br />
+
 <p align="center">
 <a href="https://linkedin.com/in/akash-g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akash-g/" height="20" width="20" /></a>
 <a href="https://hackerrank.com/akashsuper2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://hackerrank.com/akashsuper2000" height="20" width="20" /></a>
