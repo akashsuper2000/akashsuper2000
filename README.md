@@ -64,16 +64,16 @@ Sunday       24 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     1 hr 9 mins         █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             1 hr 9 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 9 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 9 mins         █████████████████████████   100.0%
 
 ```
 
