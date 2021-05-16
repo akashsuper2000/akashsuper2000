@@ -21,13 +21,13 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 30 Contributions in the Year 2021
+> 🏆 31 Contributions in the Year 2021
  > 
 > 📦 960.9 kB Used in Github's Storage 
  > 
@@ -40,22 +40,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌆 Daytime    134 commits    ██████████░░░░░░░░░░░░░░░   39.88% 
-🌃 Evening    125 commits    █████████░░░░░░░░░░░░░░░░   37.2% 
-🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63%
+🌞 Morning    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+🌆 Daytime    134 commits    ██████████░░░░░░░░░░░░░░░   39.76% 
+🌃 Evening    125 commits    █████████░░░░░░░░░░░░░░░░   37.09% 
+🌙 Night      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       77 commits     █████░░░░░░░░░░░░░░░░░░░░   22.92% 
-Tuesday      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-Thursday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Friday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Sunday       25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.44%
+Monday       77 commits     █████░░░░░░░░░░░░░░░░░░░░   22.85% 
+Tuesday      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.24% 
+Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Thursday     40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
+Friday       43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
+Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.72%
 
 ```
 
