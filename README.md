@@ -29,7 +29,7 @@
 
 > 🏆 33 Contributions in the Year 2021
  > 
-> 📦 967.0 kB Used in Github's Storage 
+> 📦 966.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -99,7 +99,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akashsuper2000/akashsuper2000/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2021
+ Last Updated on 17/06/2021
 <!--END_SECTION:waka-->
 
 <br />
