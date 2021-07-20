@@ -1,284 +1,119 @@
-# AKASH G
 
-### Software Engineer
+<h1 align="center">Hi there! I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+<h3 align="center">Student | AI Enthusiast | Competitive Programmer | CTF Ninja</h3>
 
-## OBJECTIVE
+<br />
 
-Seeking the role of an entry-level data
-scientist or a web developer and its
-associated fields in a competitive
-environment that encourages learning and
-technical growth
+- 👨‍💻 All of my projects are available here at [GitHub](https://github.com/akashsuper2000)
 
-## ABOUT ME
+- 💻 Have a look at my [personal website](https://akashsuper2000.github.io)
 
-I'm an avid learner and I enjoy solving
-problems. I specialize in machine learning
-and web development and everything in tech!
-I'm the type of person who constantly strives
-to learn new things, explore stuff and solve
-challenging problems everyday.
-I am most productive in a highly challenging
-and competitive environment with a goal to
-solve problems in an innovative and different
-way.
+- 📝 I (rarely) write in my [blog](https://akashsuper2000.github.io/blog)
 
-## CONTACT
+- 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/akash-g/) or through my [Mail](mailto:akashsuper2000@gmail.com)
 
-**Website: ** https://akashsuper2000.github.io
+<br />
 
-**Mobile** : 7010346200
-**Email** : akashsuper2000@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=akashsuper2000&show_icons=true&include_all_commits=true&count_private=true" alt="stats" />
 
-**Github** : github.com/akashsuper
-**LinkedIn** : linkedin.com/in/akash-g
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashsuper2000&layout=compact" alt="languages"/>
 
-**Address** : M2, YS Enclave, Arcot Road,
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashsuper2000" alt="stats" />
 
-Chennai
+<br />
 
-#### WORK EXPERIENCE
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-##### Summer Intern
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
-```
-Build and develop responsive webpages for the front-end
-Automate various tasks across the company using python and bash
-Assist senior developers with continuous integration and deployment
-```
-###### Chennai, May 2019
+**🐱 My Github Data** 
 
-#### ACADEMIC BACKGROUND
+> 🏆 36 Contributions in the Year 2021
+ > 
+> 📦 967.0 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 36 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
-##### Undergraduate in B.Tech Computer Science
+```text
+🌞 Morning    39 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+🌆 Daytime    117 commits    ████████████░░░░░░░░░░░░░   48.15% 
+🌃 Evening    85 commits     ████████░░░░░░░░░░░░░░░░░   34.98% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
 
 ```
-GPA: 9.3/
-CSI, T{Know} and ASCII club member
-Technical events coordinator and problem setter
-```
-###### Amrita School Of Engineering 2017 - 2021
+📅 **I'm Most Productive on Monday** 
 
-##### Higher Secondary Education (PCM+CS)
-
-```
-Percentage: 93%
-School topper in physics
-Distinction in overall academic performance
-```
-###### Amrita Vidyalayam, CBSE, Graduated 2017
-
-#### TECHNICAL SKILLS
+```text
+Monday       51 commits     █████░░░░░░░░░░░░░░░░░░░░   20.99% 
+Tuesday      42 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
+Wednesday    26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
+Thursday     36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Friday       39 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+Saturday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 ```
-Deep Learning and Computer Vision
-Pen-testing at CTF level
-Competitive Programming
-Design and Optimization of Algorithms
-Full stack Web Development
-React, Node.js, Flask
-Database Design and Management
-Cloud Deployment and Maintenance
-```
-##### Secondary Education
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Text                     25 mins             ████████████░░░░░░░░░░░░░   50.19% 
+Python                   25 mins             ████████████░░░░░░░░░░░░░   49.81%
+
+🔥 Editors: 
+Sublime Text             25 mins             ████████████░░░░░░░░░░░░░   50.19% 
+VS Code                  25 mins             ████████████░░░░░░░░░░░░░   49.81%
+
+💻 Operating System: 
+Windows                  51 mins             █████████████████████████   100.0%
 
 ```
-Percentage: 90%
-Distinction in overall academic performance
-```
-###### Amrita Vidyalayam, CBSE, Graduated 2015
+
+**I Mostly Code in Python** 
+
+```text
+Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   35.14% 
+HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
 
 ```
-https://akashsuper2000.github.io
-```
-
-## LANGUAGES
-
-**English** : Full working proficiency
-**Hindi** : Limited proficiency
-**Tamil** : Native language
-**Sanskrit** : Limited proficiency
-
-## WEB PROFILES
-
-**Hackerrank: ** 3 Gold badges and 3 Silver
-badges
-
-**CodeChef** : Max rating - 1900. Global Rank -
-2000.
-
-**CodeForces** : Max Rating: 1604
-
-**Kaggle** : Competitions Expert
-
-**CTFTime** : Team **exploit_it** : Below 100
-Nationally
-
-https://hackerrank.com/akashsuper
-
-https://codechef.com/users/akash2000coder
-
-https://codeforces.com/profile/akash
-
-https://www.kaggle.com/akashsuper
-
-https://ctftime.org/team/
-
-## CERTIFICATIONS
-
-Machine Learning Certification from Stanford
-University through Coursera
-Deep Learning Specialization Certification
-from Deeplearning.ai
-Hackerrank Problem Solving, Python,
-Javascript, React, RESTAPI, Java certifications
-
-#### ACCOMPLISHMENTS
-
-```
-Ranked 1845 and 2374 respectively of 30K+ participants
-```
-###### Hashcode 2019 and 2020
-
-```
-Ranked top 100 and received full scholarship for annual convention
-```
-###### CSI programming contest
-
-#### HACKATHONS
-
-IIIT-H Hackathon 2017
-Hacktoberfest 2018
-Hactoberfest 2019
-SLAC Honeywell Hackathon 2019
-
-```
-Ranked 500 nationally consecutively out of 20K+ participants
-```
-###### ACM ICPC 2018 and 2019
-
-```
-Contributed to open-source
-```
-###### Hacktoberfest 2018 and 2019
-
-```
-Ranked 86 of 1K+ participants and secured bronze
-```
-###### Kaggle ARC challenge
-
-```
-Ranked 147 of 2K+ participants and secured bronze
-```
-###### Kaggle Ion switching challenge
-
-```
-Ranked 310 of 3K+ participants
-```
-###### Kaggle Tweet sentiment extraction challenge
-
-```
-Ranked in top 10% consecutively for 5 weeks
-```
-###### COVID global forecasting competition
-
-```
-Ranked top 100 nationally for the year 2019 and 2020
-```
-###### CTFTime Team ranking
-
-```
-Qualified through first round of codejam 2019 and 2020
-```
-###### CodeJam
-
-```
-Participated and build a multiplayer game in C#
-```
-###### IIIT-H Hackathon
-
-```
-Participated and built an AI model to predict pick time in warehouses
-```
-###### SLAC Honeywell Hackathon
-
-```
-Ranked top 10% in Accuracy and Uncertainty and secured bronze
-```
-###### Kaggle M5 Forecasting
-
-```
-Built an agent that consistently placed in top 10%
-```
-###### Connect X competition
-
-```
-Built a greedy agent that placed in top 20%
-```
-###### Halite competition
-
-```
-Hosted a machine learning competition during the techfest 2020
-```
-###### AI Adept
-
-```
-Hosted a challenging multi-domain competition for the techfest 2020
-```
-###### Figure 'em all
 
 
-#### PROJECTS
+**Timeline**
 
-##### Faculty Dashboard
-
-```
-A Full Stack Web application which is a one-stop place for faculty things that
-include Profile view, Course Management, Leave Management, Recent
-Announcements and Time Table view.
-Tech stack: MySQL - Express - React - Node
-Deployed on: Github Pages for front-end, Heroku for back-end
-```
-###### Dec 2019 – Mar 2020
-
-##### Voice Based Transport Enquiry System
-
-```
-A Full Stack Web application for allowing users to book bus tickets through
-website or mobile app both with full voice support. It also has an admin
-interface with included voice support.
-Tech stack: React - Node - OracleDB
-```
-###### Jul 2019 – Oct 2019
-
-##### COVID-19 Tracker Dashboard
-
-```
-COVID tracker that displays info and insights on national and state-wise data.
-Built on Flask framework and Postman API.
-Hosted on akashsuper2000.pythonanywhere.com
-```
-###### May 2020
-
-##### Detecting Text Based Image Using OCR For Translation
-
-```
-This project is in association with Deep Learning Lab of Amrita University.
-This project is about applying OCR to extract texts from an image which then
-gets translated to a different language of choice.
-It is achieved through the use of various deep learning and computer vision
-techniques.
-```
-###### Jul 2018 – Dec 2018
-
-##### License Plate Detection
-
-```
-This project is about detecting license plates from a real-time video feed and
-extracting the license numbers from it.
-Implementation: Detection of the plate, segmentation of characters, OCR on
-the characters.
-```
-###### Aug 2018 – Dec 2018
+![Chart not found](https://raw.githubusercontent.com/akashsuper2000/akashsuper2000/master/charts/bar_graph.png) 
 
 
+ Last Updated on 20/07/2021
+<!--END_SECTION:waka-->
+
+<br />
+
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=akashsuper2000&theme=xcode" /></p>
+
+<br />
+
+<p align="center">
+<a href="https://linkedin.com/in/akash-g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akash-g/" height="20" width="20" /></a>
+<a href="https://hackerrank.com/akashsuper2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://hackerrank.com/akashsuper2000" height="20" width="20" /></a>
+<a href="https://codechef.com/akash2000coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="https://codechef.com/akash2000coder" height="20" width="20" /></a>
+<a href="https://kaggle.com/akashsuper2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/akashsuper2000" height="20" width="20" /></a>
+<a href="https://codeforces.com/akash2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/akash2000" height="25" width="25" /></a>
+<a href="https://twitter.com/akashsuper2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/akashsuper2000" height="20" width="20" /></a>
+<a href="https://medium.com/@akashsuper2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@akashsuper2000" height="20" width="20" /></a>
+<a href="https://dev.to/akashsuper2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/akashsuper2000" height="35" width="35" /></a>
+</p>
