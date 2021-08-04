@@ -23,7 +23,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
@@ -68,13 +68,13 @@ Sunday       16 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -95,7 +95,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/akashsuper2000/akashsuper2000/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/08/2021
+ Last Updated on 04/08/2021
 <!--END_SECTION:waka-->
 
 <br />
