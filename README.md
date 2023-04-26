@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi there! I'm Akash <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
-<h3 align="center">Student | AI Enthusiast | Competitive Programmer | CTF Ninja</h3>
+<h3 align="center">Student | AI Researcher | Competitive Programmer | CTF Ninja</h3>
 
 <br />
 
 - 👨‍💻 All of my projects are available here at [GitHub](https://github.com/akashsuper2000)
 
-- 💻 Have a look at my [personal website](https://akashsuper2000.github.io)
+- 💻 Take a look at my [personal website](https://akashsuper2000.github.io)
 
 - 📝 I (rarely) write in my [blog](https://akashsuper2000.github.io/blog)
 
