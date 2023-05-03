@@ -23,7 +23,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
@@ -98,7 +98,7 @@ Tcl                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/akashsuper2000/akashsuper2000/master/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2023 18:41:11 UTC
+ Last Updated on 03/05/2023 18:43:19 UTC
 <!--END_SECTION:waka-->
 
 <br />
