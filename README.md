@@ -28,10 +28,16 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/akashsuper2000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akashsuper2000" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/akashsuper2000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akashsuper2000" /></a></p>
+
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashsuper2000&show_icons=true&locale=en&layout=compact" alt="akashsuper2000" /></p>
 
+<br><br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashsuper2000&show_icons=true&locale=en" alt="akashsuper2000" /></p>
+
+<br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashsuper2000&" alt="akashsuper2000" /></p>
