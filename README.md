@@ -42,7 +42,7 @@ In addition to my academic pursuits, I am a serial hobbyist and enjoy exploring 
 
 <h2>🕹️ My GitHub contributions as a Game of Life</h2>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+[![GitHub Game of Life](https://github4life.herokuapp.com/akashsuper2000.gif)
 
 <br/>
 
