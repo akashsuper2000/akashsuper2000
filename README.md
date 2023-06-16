@@ -34,7 +34,7 @@ In addition to my academic pursuits, I am a serial hobbyist and enjoy exploring 
 | ------------- | ------------- |
 
 <img
-  src="https://github.com/akashsuper2000/akashsuper2000/blob/main/images/stat.svg"
+  src="https://github.com/akashsuper2000/akashsuper2000/blob/master/images/stat.svg"
   alt="Akash WakaTime Activity"
 />
 
