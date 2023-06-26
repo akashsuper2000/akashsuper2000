@@ -1,4 +1,19 @@
 <h1> Hi, I'm Akash 👋 </h1>
+
+```python
+                      ___           ___           ___           ___           ___     
+                     /\  \         /\__\         /\  \         /\  \         /\__\    
+                    /::\  \       /:/  /        /::\  \       /::\  \       /:/  /    
+                   /:/\:\  \     /:/__/        /:/\:\  \     /:/\ \  \     /:/__/     
+                  /::\~\:\  \   /::\__\____   /::\~\:\  \   _\:\~\ \  \   /::\  \ ___ 
+                 /:/\:\ \:\__\ /:/\:::::\__\ /:/\:\ \:\__\ /\ \:\ \ \__\ /:/\:\  /\__\
+                 \/__\:\/:/  / \/_|:|~~|~    \/__\:\/:/  / \:\ \:\ \/__/ \/__\:\/:/  /
+                      \::/  /     |:|  |          \::/  /   \:\ \:\__\        \::/  / 
+                      /:/  /      |:|  |          /:/  /     \:\/:/  /        /:/  /  
+                     /:/  /       |:|  |         /:/  /       \::/  /        /:/  /   
+                     \/__/         \|__|         \/__/         \/__/         \/__/
+```
+
 I am Akash, a graduate student at Stony Brook University in New York, pursuing a Master of Science in Computer Science. I come from a background in software development, having previously worked as a Software Development Engineer at Amazon. Before pursuing my graduate studies, I completed my Bachelor of Technology degree in Computer Science from Amrita School of Engineering in India.
 
 My focus is on advancing research in the fields of robotics, natural language processing, and computer vision, with the aim of improving the state of the art and driving innovation.
